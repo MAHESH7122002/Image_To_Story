@@ -1,22 +1,7 @@
 # Image to Audio Story Generator
-
-![Project Preview](project_image.png)
-
+ 
 Turn images into captivating audio stories with just a click! This innovative project combines image analysis, natural language generation, and text-to-speech conversion to create audio stories from uploaded images.
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
+ 
 The Image to Audio Story Generator is a Streamlit-based web application that leverages cutting-edge technologies to transform images into engaging audio narratives. This project aims to bring creativity and storytelling to a whole new level by automatically generating stories based on the content of uploaded images.
 
 ## Features
@@ -25,17 +10,4 @@ The Image to Audio Story Generator is a Streamlit-based web application that lev
 - **AI-Generated Stories**: Employs the OpenAI GPT-3.5 Turbo model to generate creative and unique short stories based on the extracted text.
 - **Text-to-Speech**: Converts the generated story into an audio file (MP3) using gTTS (Google Text-to-Speech).
 - **User-Friendly Interface**: A user-friendly web interface built with Streamlit for easy image upload and story presentation.
-
-## Demo
-
-![Demo](demo.gif)
-
-Check out our live demo [here](#).
-
-## Getting Started
-
-To get started with the Image to Audio Story Generator, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/image-to-audio-story.git
+ 
